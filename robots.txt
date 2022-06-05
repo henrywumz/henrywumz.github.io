@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://henrywumz.github.io/greatest-gatsby-academic-template/sitemap/sitemap-index.xml
-Host: https://henrywumz.github.io
+Sitemap: https://tc-imba.github.io/sitemap/sitemap-index.xml
+Host: https://tc-imba.github.io
